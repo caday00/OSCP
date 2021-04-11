@@ -66,14 +66,7 @@
 
 
 ### 4.1.4.3 EXERCISES
-1. 
-2.  THIS IS TEMPLATE TEST
-    1. 
-    2. 
-	3. 
-	4. 
-3. 
-4. 
+*REPORTING IS NOT REQUIRED FOR THESE EXERCISES*
 
 
 ### 4.2.4.1 EXERCISES
@@ -97,7 +90,7 @@
 5. 
 
 
-### 4.5.3.1 EXERCISES
+### 4.5.2.1 EXERCISES
 1. 
 2. 
 3. 
